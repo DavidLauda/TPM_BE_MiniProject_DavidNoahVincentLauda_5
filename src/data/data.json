@@ -1,0 +1,38 @@
+[
+  {
+    "id": "BNCC-1764514523236",
+    "name": "David Noah Vincent Lauda",
+    "nim": "2902636622",
+    "gpa": "4",
+    "division": "Web Development",
+    "status": "Priority Candidate (Fast Track)",
+    "registrationDate": "30/11/2025"
+  },
+  {
+    "id": "BNCC-1764515070312",
+    "name": "Budi Budiono",
+    "nim": "290000000",
+    "gpa": "4.10",
+    "division": "BIC",
+    "status": "Priority Candidate (Fast Track)",
+    "registrationDate": "30/11/2025"
+  },
+  {
+    "id": "BNCC-1764515120505",
+    "name": "Beatrix Kiddo",
+    "nim": "1010101010",
+    "gpa": "7000",
+    "division": "UI/UX",
+    "status": "Priority Candidate (Fast Track)",
+    "registrationDate": "30/11/2025"
+  },
+  {
+    "id": "BNCC-1764515360089",
+    "name": "Rudi Galon",
+    "nim": "2102638879",
+    "gpa": "0.2",
+    "division": "Web Development",
+    "status": "Pending Approval",
+    "registrationDate": "30/11/2025"
+  }
+]
